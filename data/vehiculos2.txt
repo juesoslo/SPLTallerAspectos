@@ -1,0 +1,3 @@
+2
+Prueba1,Taurus,2016,136340000,taurus2016.jpg
+Prueba2,Camaro,2017,72000000,camaro2017.jpg
